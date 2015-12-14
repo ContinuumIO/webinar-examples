@@ -1,0 +1,10 @@
+name: bokeh-learn
+channels:
+    - defaults
+    - bokeh/c/dev
+dependencies:
+    - python=3.4
+    - bokeh=0.11.0dev3
+    - scikit-learn
+    - matplotlib
+    - jupyter
